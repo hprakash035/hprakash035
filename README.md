@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Himanshu Prakash
-- 👀 I’m interested in JAVA technology.
-- 🌱 I’m currently learning JAVA.
-- 💞️ I’m getting trained on java. 
+- 👀 I have Got Trained On Java Technology.
+- 🌱 I’m currently learning Web Development.
+- 💞️I have certified on Database Designing  and Database Programming with SQL by oracle Acadeemy.
+-
 
 
 <!---
