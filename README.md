@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Himanshu Prakash
-- 👀 I have Got Trained On Java Technology.
-- 🌱 I’m currently learning Web Development.
-- 💞️I have certified on Database Designing  and Database Programming with SQL by oracle Acadeemy.
--
+- 👀 I am a full stack developer.
+- 🌱 I have working knowledge of frontend with  HTML5,CSS3.Bootstrap5,Javascript,React.
+- 💞️ and have working knowledge of backend with  Java17,JDBC,JSP,Servlets,Spring Boot.
+- ✨ can handle databases with mySql and MongoDb.
+
 
 
 <!---
