@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Prakash
 - 👀 I am a full stack developer.
-- 🌱 I have working knowledge of frontend with  HTML5,CSS3.Bootstrap5,Javascript,React.
+- 🌱 I have working knowledge of frontend with  HTML5,CSS3.Bootstrap5,Javascript,JQuery,Typescript,React.
 - 💞️ and have working knowledge of backend with Node.js,Express.js, Java17,JDBC,JSP,Servlets,Spring Boot.
 - ✨ can handle databases with MongoDb and Mysql.
 
